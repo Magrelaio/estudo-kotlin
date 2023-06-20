@@ -4,8 +4,8 @@ Este programa serve apenas para estudos de Kotlin e/ou Java. No momento estou ap
  */
 fun main() {
     println("Hello World!")
-    var Nome_Do_Bao: String = "Caio"
-    println(Nome_Do_Bao)
+    var nomeDoBao: String = "Caio"
+    println(nomeDoBao)
 
     //aqui vai estar uma bagunça porque sou eu aprendendo os valores de variaveis numericas.. Ent peço desculpa kk
     println("Valor Maximo de Double é ${Double.MAX_VALUE},e o minimo é ${Double.MIN_VALUE}")
@@ -16,6 +16,7 @@ fun main() {
     println("Valor Maximo de Byte é ${Byte.MAX_VALUE},e o minimo é ${Byte.MIN_VALUE}")
 
     //variaveis que não são numericas:
+
     var Caractere: Char = 'a'
     var Palavra_ou_Frase: String = "ai James da Salada de Fruta Apelão"
     var Booleano_ein: Boolean = true
